@@ -13,11 +13,11 @@
     "node" : ">=0.8"
   },
   "dependencies" : {
-    "uglify-js": "2.7.0",
+    "uglify-js": "3.14.3",
     "optimist": "0.6.1",
     "xfs" : "0.1.8",
-    "ejs": "2.5.1",
-    "debug": "2.2.0",
+    "ejs": "3.1.7",
+    "debug": "2.6.9",
     "coffee-script": "*"
   },
   "devDependencies" : {
